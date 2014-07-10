@@ -7,4 +7,4 @@ verfügbar gemacht werden. Auch kann mit bestehenden Materialeinstellungen
 experimentiert werden. Gerade beim Lasercutter muss man viel testen und kann
 dann seine Verbesserungen hier einpflegen.
 
-*WICHTIG: der Lasercutter darf nur nach persönlicher Einweisung benutzt werden!*
+**_WICHTIG:_ der Lasercutter darf nur nach persönlicher Einweisung benutzt werden!**

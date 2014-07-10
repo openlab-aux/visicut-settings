@@ -8,3 +8,11 @@ experimentiert werden. Gerade beim Lasercutter muss man viel testen und kann
 dann seine Verbesserungen hier einpflegen.
 
 **_WICHTIG:_ der Lasercutter darf nur nach persönlicher Einweisung benutzt werden!**
+
+
+###Installieren
+Das Repo ist einfach der gesamte dotfolder von Visicut im Homeverzeichnis
+```
+rm -r ~/.visicut
+git clone git@github.com:openlab-aux/visicut-settings.git ~/.visicut
+```

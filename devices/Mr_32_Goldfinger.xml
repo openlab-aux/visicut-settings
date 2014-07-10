@@ -1,0 +1,29 @@
+<laserDevice>
+  <jobSentText>Auftrag ($jobname) wurde an $name übertragen
+- Deckel schließen
+- Wasserkühlung kontrollieren, Abzug und evtl. Kompressor einschalten
+- Zum Starten den Auftrag auf dem Bedienpanel bestätigen</jobSentText>
+  <jobPrefix>visicut </jobPrefix>
+  <laserCutter class="com.t_oster.liblasercut.drivers.LaosCutter">
+    <supportsFrequency>false</supportsFrequency>
+    <supportsFocus>false</supportsFocus>
+    <supportsPurge>false</supportsPurge>
+    <supportsVentilation>false</supportsVentilation>
+    <debugFilename></debugFilename>
+    <addSpacePerRasterLine>5.0</addSpacePerRasterLine>
+    <useTftp>true</useTftp>
+    <flipXaxis>false</flipXaxis>
+    <flipYaxis>true</flipYaxis>
+    <hostname>10.11.7.17</hostname>
+    <port>69</port>
+    <mmPerStep>0.001</mmPerStep>
+    <currentPower>-1.0</currentPower>
+    <currentSpeed>-1.0</currentSpeed>
+    <currentFrequency>-1</currentFrequency>
+    <currentFocus>0.0</currentFocus>
+    <bedWidth>350.0</bedWidth>
+    <bedHeight>230.0</bedHeight>
+  </laserCutter>
+  <description>LaserCutter im OpenLab</description>
+  <name>Mr Goldfinger</name>
+</laserDevice>

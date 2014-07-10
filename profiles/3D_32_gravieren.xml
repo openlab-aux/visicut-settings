@@ -1,0 +1,7 @@
+<raster3dProfile>
+  <DPI>500.0</DPI>
+  <description>wie gravieren aber in Abhängigkeit der Bildhelligkeit die Läserleistung einstellen</description>
+  <name>3D gravieren</name>
+  <invertColors>false</invertColors>
+  <colorShift>0</colorShift>
+</raster3dProfile>

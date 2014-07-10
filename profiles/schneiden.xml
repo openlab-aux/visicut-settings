@@ -1,0 +1,9 @@
+<vectorProfile>
+  <DPI>500.0</DPI>
+  <description>durch das Material schneiden</description>
+  <name>schneiden</name>
+  <orderStrategy>INNER_FIRST</orderStrategy>
+  <useOutline>false</useOutline>
+  <isCut>true</isCut>
+  <width>0.7</width>
+</vectorProfile>

@@ -1,0 +1,23 @@
+<visicutPreferences>
+  <defaultMapping>alles schneiden</defaultMapping>
+  <disableSandbox>false</disableSandbox>
+  <useFilenamesForJobs>true</useFilenamesForJobs>
+  <windowBounds>
+    <x>-1</x>
+    <y>27</y>
+    <width>1602</width>
+    <height>874</height>
+  </windowBounds>
+  <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
+  <recentFiles>
+    <string>/home/michael/cad/roflkopter_frame_v2/motorträger_export.svg</string>
+    <string>/home/michael/cad/roflkopter_frame_v2/arm_export.svg</string>
+    <string>/home/michael/cad/esc_export.svg</string>
+    <string>/home/michael/cad/arm_export.svg</string>
+    <string>/tmp/ink_ext_XXXXXX.svgQH9EIX.svg</string>
+  </recentFiles>
+  <lastMaterial>Pappel Sperrholz</lastMaterial>
+  <lastLaserDevice>Mr Goldfinger</lastLaserDevice>
+  <availableImporters/>
+  <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
+</visicutPreferences>
